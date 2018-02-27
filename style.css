@@ -62,6 +62,34 @@ a{
 .logo{
 
 }
+.container{
+	padding-top: 15%;
+}
+.img{
+	max-height: 250px;
+	min-height: 250px;
+}
+.title{
+	color: white;
+	float:;
+	margin-left: %;
+}
+.info{
+	position: 
+	color: white;
+}
+.title2{
+	float:;
+}
+.txt{
+	color: white;
+	float: left;
+	margin-left: 5%;
+	max-width: 60%;
+}
+.list{
+
+}
 .W1{
 	margin: auto;
 	color: white;
