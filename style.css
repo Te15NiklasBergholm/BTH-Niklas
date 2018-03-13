@@ -74,12 +74,15 @@ a{
 	float:;
 	margin-left: %;
 }
-.info{
-	position: 
+.right:{
+	float: right;
 	color: white;
 }
+.left{
+		float: left;
+}
 .title2{
-	float:;
+	
 }
 .txt{
 	color: white;
@@ -88,7 +91,7 @@ a{
 	max-width: 60%;
 }
 .list{
-
+ color: white;
 }
 .W1{
 	margin: auto;
